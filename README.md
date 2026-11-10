@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm João Pedro 👋
 
-<!--
-**JoaoPedroDev1302/JoaoPedroDev1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering student at UNINTER  
+☕ Currently focused on Java and Backend Development  
+🗄️ Studying SQL, PostgreSQL and JDBC  
+💻 Building practical projects to improve my software development skills  
+📍 São Gotardo, Minas Gerais — Brazil
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- PostgreSQL
+- SQL
+- JDBC
+- Maven
+- Git & GitHub
+- Basic Python
+- Basic HTML, CSS & JavaScript
+
+## 📚 Currently Learning
+
+I'm currently strengthening my knowledge in Java, Object-Oriented Programming, databases and backend development.
+
+My goal is to keep building practical projects and prepare for my first professional opportunity as a software developer.
+
+## 🚀 Featured Project
+
+### Java PostgreSQL Inventory
+
+Inventory management application developed with **Java, PostgreSQL and JDBC**.
+
+The project includes:
+
+- Product registration
+- Product listing
+- Product updates
+- Product deletion
+- Complete CRUD operations
+- DAO pattern
+- PostgreSQL integration using JDBC
+- PreparedStatement
+- Environment variable for database password
+
+Repository: **java-postgresql-inventory**
